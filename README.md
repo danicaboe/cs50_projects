@@ -8,4 +8,4 @@
 ### Due to dependencies and cs50 specific libraries and framework created for these courses, most of the code doesn't run through the command line. I'm making this available to showcase my work, and to reference when solving a problem similar to one I've solved here. While the functionality is broken, the logic isn't. 
 
 
-### Over time I intend to improve the solutions currently listed and add further documentation to explain the functionality of each file. Feel free to use the fuctions here to support your own projects, or play around with the logic to learn. 
+### Over time I intend to improve the solutions currently listed and add further documentation to explain the functionality of each file. Feel free to use the functions here to support your own projects, or play around with the logic to learn. 
